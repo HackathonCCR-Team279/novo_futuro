@@ -1,5 +1,5 @@
-<h1 align="center">
-    <img alt="Hackathon" title="#Hackathon" src="./assets/banner.png" />
+<h1 align="center" width=320>
+    <img alt="Hackathon" title="#Hackathon" width=220 src="https://github.com/HackathonCCR-Team279/novo_futuro/blob/main/UI_icon_3.png" />
 </h1>
 
 <h4 align="center"> 
