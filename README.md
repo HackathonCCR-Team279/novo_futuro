@@ -30,7 +30,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Novo Futuro - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+♻️ Novo Futuro - uma plataforma que conecte os jovens ao mercado de trabalho e que ajuda a desenvolver as competências necessárias pra que eles possam crescer na vida
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 - uma imagem do ponto de coleta
