@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 Hackathon CCR Novo Futuro 1.0 🚀 Em construção... 🚧
+	🚧 Hackathon CCR Novo Futuro 1.0 :man_technologist: Em construção... 🚧
 </h4>
 
 #
