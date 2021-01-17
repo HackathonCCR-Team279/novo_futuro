@@ -6,23 +6,7 @@
 	🚧 Hackathon CCR Novo Futuro 1.0 🚀 Em construção... 🚧
 </h4>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/nlw1?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/HackathonCCR-Team279/novo_futuro">
-  
-  	
-  <a href="https://www.twitter.com/tgmarinho/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2Fnlw1">
-  </a>
-	
-  
-  <a href="https://github.com/tgmarinho/nlw1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/nlw1">
-  </a>
-
-</p>
-
+#
 
 ## 💻 Sobre o projeto
 
@@ -39,16 +23,6 @@ Os usuários terão acesso ao webpage, onde poderão:
 
 Projeto desenvolvido durante a **Hackathon 2ª Edição** oferecida pela [CCR](rs).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
-
-
-## 🎨 Layout
-/**
-O layout da aplicação está disponível no Figma:
-
-<a href="https://www.figma.com/">
-  <img alt="Made by mateusloubach" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
-**/
 
 ### Web
 
@@ -77,10 +51,10 @@ Além disso é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone https://github.com/HackathonCCR-Team279/novo_futuro
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd hackathon
 
 # Vá para a pasta server
 $ cd server
