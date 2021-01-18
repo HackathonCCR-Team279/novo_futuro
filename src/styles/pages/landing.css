@@ -1,0 +1,74 @@
+#page-landing {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(329.54deg, #e7f343 0%, #15D6D6 100%);
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-wrapper {
+    position: relative;
+
+    width: 100%;
+    max-width: 1100px;
+    
+    height: 100%;
+    max-height: 680px;
+
+
+    display: flex;
+    align-items: flex-start;
+
+    background: url('../../images/landing1.svg') no-repeat 80% center;
+}
+
+#page-landing .content-wrapper main {
+    position: absolute;
+
+    left: -10px;
+    top: 110px;
+    
+    max-width: 750px;
+}
+
+.content-wrapper .enter-app {
+    position: absolute;
+    left: 1100px;
+    bottom: 0px;
+
+    width: 80px;
+    height: 80px;
+    background: #f3435b;
+    border-radius: 70px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: background-color 0.4s;
+}
+.content-wrapper .sub{
+    position: absolute;
+    left: -110px;
+    bottom: 10px;
+
+
+    font-size: 110px;
+    color: #000000;
+}
+.content-wrapper .sub1{
+    position: absolute;
+    left: -113px;
+    bottom: 13px;
+
+
+    font-size: 110px;
+    color: #f3435b;
+}
+
+.content-wrapper .enter-app:hover {
+    background: #15D6D6;
+
+}
