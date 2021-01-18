@@ -27,9 +27,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Hackathon" title="#Hackathon" src="./assets/web.svg" width="400px">
-
-  <img alt="Hackathon" title="#Hackathon" src="./assets/sucesso-web.svg" width="400px">
+  <img alt="Hackathon" title="#Hackathon" src="https://github.com/HackathonCCR-Team279/novo_futuro/blob/main/screenshotpnf.png" width="800px">
 </p>
 
 ## 🛠 Tecnologias
